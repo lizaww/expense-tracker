@@ -58,7 +58,3 @@ python main.py
 ## Ссылка на GitHub
 
 [https://github.com/lizaww/expense-tracker](https://github.com/lizaww/expense-tracker)
-```
-nse-tracker.git
-cd expense-tracker
-python main.py
